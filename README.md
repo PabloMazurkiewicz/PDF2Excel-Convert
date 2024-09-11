@@ -23,5 +23,5 @@ This project is a simple and effective tool that converts tables from PDF files 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/PDF-to-Excel-Converter.git
+   git clone https://github.com/PabloMazurkiewicz/PDF2Excel-Convert.git
    cd PDF-to-Excel-Converter
